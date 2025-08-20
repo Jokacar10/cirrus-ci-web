@@ -21,7 +21,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
     "@improbable-eng/grpc-web": "^0.15.0",
-    "@mui/icons-material": "^5.11.16",
+    "@mui/icons-material": "^5.18.0",
     "@mui/lab": "^5.0.0-alpha.134",
     "@mui/material": "^5.13.5",
     "@mui/styles": "^5.13.2",
