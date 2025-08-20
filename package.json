@@ -62,7 +62,7 @@
     "sjcl": "^1.0.8",
     "stream-browserify": "^3.0.0",
     "ts-protoc-gen": "^0.15.0",
-    "tss-react": "^4.8.5",
+    "tss-react": "^4.9.19",
     "vm-browserify": "^1.1.2"
   },
   "devDependencies": {
