@@ -5683,15 +5683,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sentry-internal/tracing@npm:7.53.1":
-  version: 7.53.1
-  resolution: "@sentry-internal/tracing@npm:7.53.1"
+"@sentry-internal/tracing@npm:7.120.4":
+  version: 7.120.4
+  resolution: "@sentry-internal/tracing@npm:7.120.4"
   dependencies:
-    "@sentry/core": 7.53.1
-    "@sentry/types": 7.53.1
-    "@sentry/utils": 7.53.1
-    tslib: ^1.9.3
-  checksum: 99fadf422e619faeea436a96b37088ba10850f8e77fca10d7fea6de0c3f1d60b0e8ec1da3b9230f4213fa25f044c99aba585562447ddca0a443d7cbd88c3b81d
+    "@sentry/core": 7.120.4
+    "@sentry/types": 7.120.4
+    "@sentry/utils": 7.120.4
+  checksum: 247c087a0100e6ac68bfbdb3308905aebe1230dc0e99b14d0cedf12d55378c173d4482f20e5f112f8e6f75561c48b204bb083302a9d1d81116e786e02deb6633
   languageName: node
   linkType: hard
 
@@ -5710,14 +5709,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sentry/core@npm:7.53.1":
-  version: 7.53.1
-  resolution: "@sentry/core@npm:7.53.1"
+"@sentry/core@npm:7.120.4":
+  version: 7.120.4
+  resolution: "@sentry/core@npm:7.120.4"
   dependencies:
-    "@sentry/types": 7.53.1
-    "@sentry/utils": 7.53.1
-    tslib: ^1.9.3
-  checksum: 5d42bc30a59cb4459eb99441b631e3f9daec5b2e98c24377aae0329127f8c474a9c32353a96e3f4765e3fb18370756e85f6b873cd26bd591e0040917b7fa9cf4
+    "@sentry/types": 7.120.4
+    "@sentry/utils": 7.120.4
+  checksum: c5d24064c9a2fae34bd13038a20b1ffe04d9a66693d1cfa5a5d25491911e5aebfd5b107433edd081ad845b07da2e384fd8e39ebf46e56f4f49a5717956f5bae6
   languageName: node
   linkType: hard
 
@@ -5746,19 +5744,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sentry/tracing@npm:^7.53.1":
-  version: 7.53.1
-  resolution: "@sentry/tracing@npm:7.53.1"
+"@sentry/tracing@npm:^7.120.4":
+  version: 7.120.4
+  resolution: "@sentry/tracing@npm:7.120.4"
   dependencies:
-    "@sentry-internal/tracing": 7.53.1
-  checksum: 89a5e7ffd68d735462dd2ed7c3fa4a0a31032c090219196910adbaf42b6e7ddd607126deab960a566f2625396d78edcc6997315bb124affd6e0528a7500b0036
+    "@sentry-internal/tracing": 7.120.4
+  checksum: 09cae9abeafc6e9173039aed86be152ab3d0563303c34a4e07e6a9d963172a6af53cbe45630c32170897d03753454b314aaa24d410e08493d788d69bae2b9744
   languageName: node
   linkType: hard
 
-"@sentry/types@npm:7.53.1":
-  version: 7.53.1
-  resolution: "@sentry/types@npm:7.53.1"
-  checksum: 5f76d7d66d5df5d48f66a755e18ae133ea02a9405093b652eb4921ca62c3114343561a2d8067f2be6d9df8dd32d10e30d3ce58150f795600680e6230fb136681
+"@sentry/types@npm:7.120.4":
+  version: 7.120.4
+  resolution: "@sentry/types@npm:7.120.4"
+  checksum: 33bcd3d489511915827f32d6d509fd50479a80bffbbe195545ed27c82d606658ae66c01ec6494a087503505454adb8b0d7a8c0adb5228b6d45a6ffec3b708dcc
   languageName: node
   linkType: hard
 
@@ -5769,13 +5767,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sentry/utils@npm:7.53.1":
-  version: 7.53.1
-  resolution: "@sentry/utils@npm:7.53.1"
+"@sentry/utils@npm:7.120.4":
+  version: 7.120.4
+  resolution: "@sentry/utils@npm:7.120.4"
   dependencies:
-    "@sentry/types": 7.53.1
-    tslib: ^1.9.3
-  checksum: d9556f161a0eed0e1bb279bac12b99492b6212d9b6cabebbcb2d0f196f99b96c319305ec347d8f06382e2dde5782d5ba20a00f762fbfd4e8699e9100ef921804
+    "@sentry/types": 7.120.4
+  checksum: f02f3b54ec226c02ad2f037ecff73de3631d7b1b06ff55bcfa400545ecbf0f57903f6766684a5d88870d6ceb4dfa87dbb17072f1090cb484924c505fb751d4da
   languageName: node
   linkType: hard
 
@@ -8531,7 +8528,7 @@ __metadata:
     "@mui/styles": ^5.13.2
     "@mui/utils": ^5.13.1
     "@sentry/react": ^8.33.1
-    "@sentry/tracing": ^7.53.1
+    "@sentry/tracing": ^7.120.4
     "@stripe/react-stripe-js": ^2.1.0
     "@stripe/stripe-js": ^1.54.0
     "@trivago/prettier-plugin-sort-imports": ^4.1.1
@@ -19844,7 +19841,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tslib@npm:^1.8.1, tslib@npm:^1.9.3":
+"tslib@npm:^1.8.1":
   version: 1.14.1
   resolution: "tslib@npm:1.14.1"
   checksum: dbe628ef87f66691d5d2959b3e41b9ca0045c3ee3c7c7b906cc1e328b39f199bb1ad9e671c39025bd56122ac57dfbf7385a94843b1cc07c60a4db74795829acd
