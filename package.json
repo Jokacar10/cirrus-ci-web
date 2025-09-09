@@ -88,7 +88,7 @@
     "react-scripts": "^5.0.1",
     "react-test-renderer": "^18.2.0",
     "relay-compiler": "^15.0.0",
-    "typescript": "^5.0.4",
+    "typescript": "^5.9.2",
     "yarn-upgrade-all": "^0.7.2"
   },
   "resolutions": {
